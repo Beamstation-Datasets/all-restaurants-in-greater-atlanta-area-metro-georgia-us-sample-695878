@@ -9,9 +9,9 @@
 | Dataset ID | `695878` |
 | Location | Atlanta-Sandy Springs-Roswell, GA |
 | Category | Restaurants |
-| Full dataset size | 12,692 records |
-| Free sample size | 1,000 records (7.88%) |
-| Last export | 2026-04-09T15:16:49.213107+00:00 |
+| Full dataset size | 12,493 records |
+| Free sample size | 1,000 records (8.0%) |
+| Last export | 2026-04-16T17:53:04.517434+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-greater-atlanta-area-metro-georgia-us-sample-695878/releases/download/sample-latest/beamstation_695878_restaurants-us-atlantasandyspringsroswellga_SAMPLE_DIST.csv) |
 
 ## What is in this sample
