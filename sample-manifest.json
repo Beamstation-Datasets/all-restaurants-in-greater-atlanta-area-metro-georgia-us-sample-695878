@@ -1,12 +1,12 @@
 {
-  "export_job_id": "2865c877-a7f2-4dcb-9e6e-2136e404b8dd",
+  "export_job_id": "5aa751fe-14f8-408c-9eee-f409adfd7f20",
   "id_short": 695878,
-  "published_at": "2026-04-19T19:21:25Z",
+  "published_at": "2026-04-23T19:24:50Z",
   "repo_name": "all-restaurants-in-greater-atlanta-area-metro-georgia-us-sample-695878",
   "sample_asset_name": "beamstation_695878_restaurants-us-atlantasandyspringsroswellga_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/695878/beamstation_695878_restaurants-us-atlantasandyspringsroswellga_SAMPLE_DIST.csv",
-  "sample_records": 1000,
-  "sample_sha256": "cac9f4a19b3b902eb12aca887ea2020f4a5e1ad8a01a66ea4fbe7aa487b097aa",
-  "sample_size_bytes": 3309452,
-  "total_records": 12493
+  "sample_records": 718,
+  "sample_sha256": "ab6ae1ceb482a6da17594d4b50bf3943f120e941a1323395348f66da1d3c7455",
+  "sample_size_bytes": 2455645,
+  "total_records": 7182
 }
