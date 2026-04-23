@@ -1,6 +1,6 @@
 # All Restaurants in Greater Atlanta Area (Metro), Georgia, US
 
-> Free BeamStation sample export with 1,000 rows and masked direct-contact fields.
+> Free BeamStation sample export with 718 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `695878` |
 | Location | Atlanta-Sandy Springs-Roswell, GA |
 | Category | Restaurants |
-| Full dataset size | 12,493 records |
-| Free sample size | 1,000 records (8.0%) |
-| Last export | 2026-04-16T17:53:04.517434+00:00 |
+| Full dataset size | 7,182 records |
+| Free sample size | 718 records (10.0%) |
+| Last export | 2026-04-23T14:13:55.640678+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-greater-atlanta-area-metro-georgia-us-sample-695878/releases/download/sample-latest/beamstation_695878_restaurants-us-atlantasandyspringsroswellga_SAMPLE_DIST.csv) |
 
 ## What is in this sample
